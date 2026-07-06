@@ -22,11 +22,11 @@ This project provides hands-on examples of hash collisions across different file
 ## 📂 Collision Examples
 
 ### 1. Document Collision (PDFs)
-*   **Description:** Two distinct PDF files containing different metadata or hidden content that resolve to the same hash value.
+*   **Description:** Two distinct PDF files containing different metadata that resolve to the same hash value.
 *   **Analysis:** Comparison of the binary structure and hash generation results.
 
 ### 2. Image Collision (Visual Assets)
-*   **Description:** Two visually distinct or manipulated images that have been crafted to generate an identical hash signature.
+*   **Description:** Two visually manipulated images to generate an identical hash signature.
 *   **Analysis:** Demonstrating how subtle bit-level modifications can bypass integrity checks.
 
 ---

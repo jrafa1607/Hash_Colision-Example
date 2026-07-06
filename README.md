@@ -13,8 +13,8 @@
 This project provides hands-on examples of hash collisions across different file types, focusing on:
 
 - [x] **File Integrity Testing:** Implementing Python scripts to calculate and compare hash values (e.g., MD5, SHA-1).
-- [x] **Collision Demonstration:** Presenting two pairs of files—documents and images—that share the same hash signature.
-- [x] **Algorithmic Analysis:** Investigating why certain hash functions are susceptible to collisions and the security implications for real-world systems.
+- [x] **Collision Demonstration:** Presenting two pairs of files that share the same hash signature.
+- [x] **Algorithmic Analysis:** Investigating why certain hash functions are susceptible to collisions.
 - [x] **Educational Comparison:** Illustrating the difference between distinct files that result in the same digital fingerprint.
 
 ---

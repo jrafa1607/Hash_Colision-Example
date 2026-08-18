@@ -36,9 +36,9 @@ This project provides hands-on examples of hash collisions across different file
 *   **Main Libraries:** `hashlib` (for hashing), `os` (for file management).
 *   **Concepts:** Cryptographic Hashing, Collision Vulnerabilities, Binary File Analysis, Data Integrity.
 
-  ---
-
 ---
 
 ## ⚖️ Disclaimer
 *This project is for educational purposes only. Understanding hash collisions is critical for developers to implement secure systems and avoid using deprecated algorithms in sensitive applications.*
+
+---

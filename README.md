@@ -32,9 +32,9 @@ This project provides hands-on examples of hash collisions across different file
 ---
 
 ### 🛠 Technologies Used
-* **Language:** Python
-* **Main Libraries:** `hashlib` (for hashing), `os` (for file management).
-* **Concepts:** Cryptographic Hashing, Collision Vulnerabilities, Binary File Analysis, Data Integrity.
+*   **Language:** Python
+*   **Main Libraries:** `hashlib` (for hashing), `os` (for file management).
+*   **Concepts:** Cryptographic Hashing, Collision Vulnerabilities, Binary File Analysis, Data Integrity.
 
   ---
 
